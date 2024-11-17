@@ -49,5 +49,5 @@ The **Streamlit app** (`app.py`) provides an interface for generating MCQs. Feat
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ThisIsFarhan/automated-mcq-generator.git
+   git clone https://github.com/ThisIsFarhan/MCQGENERATOR-NLP.git
    cd automated-mcq-generator
